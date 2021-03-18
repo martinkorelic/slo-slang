@@ -1,0 +1,25 @@
+{
+  "name": "sloslang",
+  "version": "1.0.0",
+  "description": "A package used for processing Slovenian text and slang.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slang",
+    "textprocessing",
+    "slovenia",
+    "slovenian",
+    "text",
+    "regex"
+  ],
+  "author": "martinkorelic",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
