@@ -2,6 +2,7 @@
 
 NPM package using regular expressions to process (slangify, deslangify) specifically Slovenian text.
 
+
 **Version: 1.0.0**
 
 ## Slang -> words
