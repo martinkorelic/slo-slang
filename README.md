@@ -1,4 +1,4 @@
-# Slo slang
+# Slo Slang
 
 NPM package using regular expressions to process (slangify, deslangify) specifically Slovenian text.
 
